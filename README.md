@@ -39,6 +39,9 @@ Screenshot of our accuracy is given below:
 # File : 
 You can run the below file on jupyter Notebook:
 
-  Link to ipynb file : https://github.com/98amanmaurya/Area-Type-Predictor/
+  Link to ipynb file : https://github.com/98amanmaurya/Area-Type-Predictor/blob/4bf0e2fe4fe6496e4e6c20faba7696145bbabb26/Area%20Type%20Predictor.ipynb
+  
+  
+ ## Thanks for your time!
 
 
