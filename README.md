@@ -30,5 +30,9 @@ DATA :   https://www.kaggle.com/shrutibhargava94/india-air-quality-data
 Modified project data :    https://github.com/98amanmaurya/Area-Type-Predictor/blob/b301f1072a785cbfe4865eb74a514ac3638e93f7/project.csv
 
 # CONCLUSION
-Lastly the conclusion mainly comprises of determination of accuracy prediction on the basis of our calculated test values. So, can say that after performing the whole set of procedures on the given dataset had reached a conclusion that using the classification model, had gained the accuracy of our project in the sense representing the correct calculated estimations.
+Lastly the conclusion mainly comprises of determination of accuracy prediction on the basis of our calculated test values. So, can say that after performing the whole set of procedures on the given dataset had reached a conclusion that using the the k-nearest neighbors algorithm (k-NN), a non-parametric classification method model, had gained the accuracy of our project in the sense representing the correct calculated estimations.
+
+Screenshot of our accuracy is given below:
+<img src ="https://github.com/98amanmaurya/Area-Type-Predictor/blob/52dbdc782b9426058223c445b91527631f34b059/Area.png">
+
 
