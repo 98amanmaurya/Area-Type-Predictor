@@ -22,10 +22,12 @@ BY:-
 
 # DATA SELECTION
 Dataset-
-All the data presented here has been taken from KAGGLE REPOSITORY and, going to use our own dataset of 35Lakhs<b>+</b> records  . Some of these records, are labeled by our security experts as malicious the link is as follows:
+All the data presented here has been taken from KAGGLE REPOSITORY and going to make our own dataset from 35Lakhs<b>+</b> records. I've taken only those columns which is required for my project and save it in project.csv file. 
 
 # Dataset Reference – 
-https://www.kaggle.com/shrutibhargava94/india-air-quality-data
+DATA :   https://www.kaggle.com/shrutibhargava94/india-air-quality-data
+
+modified project data:https://github.com/98amanmaurya/Area-Type-Predictor/
 
 
 # CONCLUSION
