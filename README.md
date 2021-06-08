@@ -22,7 +22,7 @@ BY:-
 
 # DATA SELECTION
 Dataset-
-All the data presented here has been taken from KAGGLE REPOSITORY and, going to use our own dataset of 50 million plus records. Some of these records, are labeled by our security experts as malicious the link is as follows:
+All the data presented here has been taken from KAGGLE REPOSITORY and, going to use our own dataset of 35Lakhs<b>+</b> records  . Some of these records, are labeled by our security experts as malicious the link is as follows:
 
 # Dataset Reference – 
 https://www.kaggle.com/shrutibhargava94/india-air-quality-data
