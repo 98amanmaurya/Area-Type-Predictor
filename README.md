@@ -1,6 +1,6 @@
 # Area-Type-Predictor
 
-<img src ="https://github.com/98amanmaurya/Area-Type-Predictor.git/area.png">
+<img src ="https://github.com/98amanmaurya/Area-Type-Predictor/blob/52dbdc782b9426058223c445b91527631f34b059/Area.png">
 
 Mainly Focuses: ON THE BASIS OF ATMOSPHERIC CONSTITUENTS, CLASSIFICATION OF VARIOUS AREAS
 
